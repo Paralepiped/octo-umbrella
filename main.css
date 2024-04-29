@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Geostar+Fill&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+
+body {
+    background-color: pink;
+    font-size: 80px;
+    font-family: "Geostar Fill", serif;
+    box-sizing: border-box;
+    text-align: center;
+    color: rgb(15, 12, 12);
+}
